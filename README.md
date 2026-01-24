@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm MoreOver
 
-<!--
-**MoreOverMedia/MoreOverMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Amateur Software developer specializing in Python automation and Discord bot development.
 
-Here are some ideas to get you started:
+I focus on building maintainable, secure systems with clear structure and minimal complexity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+- Python
+- discord.py
+- Docker
+- CI/CD with GitHub Actions
+
+I also make music.
+You can follow me [here](https://www.moreovermusic.com/).
+
+A gift from the earth arrives to greet you.
