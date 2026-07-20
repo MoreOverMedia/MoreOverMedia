@@ -8,7 +8,6 @@ I focus on building maintainable, secure systems with clear structure and minima
 - Python
 - discord.py
 - Docker
-- CI/CD with GitHub Actions
 
 I also make music.
 You can follow me [here](https://www.moreovermusic.com/).
