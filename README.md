@@ -1,11 +1,6 @@
 ## Hi, I'm MoreOver
 
-I'm an Amateur Software developer specializing in Python automation and Discord bot development.
-
-I focus on building maintainable, secure systems with clear structure and minimal complexity.
-
 **Stack**
-- Python
 - discord.py
 - Docker
 
