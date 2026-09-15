@@ -1,6 +1,8 @@
 ## Hi, I'm MoreOver
 
 **Stack**
+- node.js
+- React
 - discord.py
 - Docker
 
